@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mi Primer Formulario Android</string>
+    <string name="texto_boton_siguiente">Siguiente</string>
+    <string name="texto_datepicker_fecha_nacimiento">Fecha de Nacimiento</string>
+
+    <string name="texto_titulo_confirmar_datos">Confirmar Datos</string>
+
+
+    <string name="texto_boton_editar">Editar Datos</string>
+    <string name="texto_inicial_etiqueta_telefono">Tel: </string>
+    <string name="texto_inicial_etiqueta_email">Email: </string>
+    <string name="texto_inicial_etiqueta_descripcion">Descripción: </string>
+    <string name="texto_inicial_etiqueta_fecha_nacimiento">Fecha de Nacimiento: </string>
+
+
+
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_nombre_completo">Nombre Completo</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_descripcion_contacto">Descripción Contacto</string>
+
+</resources>
